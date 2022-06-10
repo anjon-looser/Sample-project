@@ -1,3 +1,3 @@
 # Sample-project
 
-This is asample project.
+This is a sample project.
